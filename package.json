@@ -1,0 +1,19 @@
+{
+  "name": "html4css",
+  "version": "1.0.0",
+  "description": "Fallback stylesheet for unsupported browsers",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippdaun/html4css.git"
+  },
+  "author": "Mike Byrne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippdaun/html4css/issues"
+  },
+  "homepage": "https://github.com/philippdaun/html4css#readme"
+}
