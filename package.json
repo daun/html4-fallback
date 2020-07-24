@@ -2,7 +2,7 @@
   "name": "html4-fallback",
   "version": "1.0.0",
   "description": "Fallback stylesheet for unsupported browsers",
-  "main": "",
+  "main": "fallback.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
