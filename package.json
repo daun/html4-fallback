@@ -1,5 +1,5 @@
 {
-  "name": "html4css",
+  "name": "html4-fallback",
   "version": "1.0.0",
   "description": "Fallback stylesheet for unsupported browsers",
   "main": "",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philippdaun/html4css.git"
+    "url": "git+https://github.com/daun/html4-fallback.git"
   },
-  "author": "Mike Byrne",
-  "license": "ISC",
+  "author": "Philipp Daun",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/philippdaun/html4css/issues"
+    "url": "https://github.com/daun/html4-fallback/issues"
   },
-  "homepage": "https://github.com/philippdaun/html4css#readme"
+  "homepage": "https://github.com/daun/html4-fallback#readme"
 }

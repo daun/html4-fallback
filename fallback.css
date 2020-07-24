@@ -1,7 +1,12 @@
-/*! html4 - v1.0.2 - 2016-12-08
- * https://github.com/area17/html4css
- * Copyright (c) 2016
+/**
+ * html4-fallback
+ * https://github.com/daun/html4-fallback
+ *
+ * Use fallback stylesheet in HTML4 browsers
+ *
+ * Copyright (c) 2020
  * License: MIT
+ * Author: Philipp Daun https://github.com/daun
  * Author: Mike Byrne @13twelve https://github.com/13twelve
  */
 
@@ -424,6 +429,3 @@ sub {
     line-height: 15px;
   }
 }
-
-
-

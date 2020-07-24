@@ -1,4 +1,4 @@
-# HTML4 CSS
+# HTML4 Fallback
 
 A default CSS file to give *unsupported* browsers something other than a totally broken experience of the web.
 Inspired by Andy Clarke's 2009 *'Universal Internet Explorer 6 CSS'* <sup><a href="https://stuffandnonsense.co.uk/blog/about/universal_internet_explorer_6_css" target="blank">1</a></sup> <sup><a href="https://stuffandnonsense.co.uk/blog/about/universal_internet_explorer_6_css_revisited">2</a></sup>.
